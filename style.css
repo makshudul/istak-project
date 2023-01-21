@@ -1,0 +1,96 @@
+.navbar-nav {
+    margin-right: 60px;
+}
+
+.navbar-nav ul li{
+    margin-left: 200px!important ;
+    color: black!important;
+    font-weight:bold!important;
+}
+.main-section .row p{
+    font-size: 15px;
+    font-weight:500;
+}
+.project-button i{
+    rotate: 30deg;
+}
+.ui-ux-button{
+    padding: 5px 25px ;
+    border-radius: 30px;
+    background-color: #6841FF!important;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    color: white;
+}
+.istaik-imag{
+    background-color:#EFE1E1;
+    background-image: url(image/main.png);
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: center;
+    margin-top: -16px;
+    position: relative;
+}
+.dimond{
+position: absolute;
+left: 40%;
+bottom:70%;
+height: 40px;
+width: 40px;
+border-radius: 50%;
+padding: 6px 6px;
+background-color: white;
+
+}
+.figma{
+    position: absolute;
+    left: 80%;
+    top:40%;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding: 6px 6px;
+    background-color: white; 
+}
+.xd{
+    position: absolute;
+    left: 40%;
+    top:50%;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    padding: 2px 3px;
+    background-color: white;  
+    text-align: center;
+}
+.project-statistics{
+    background-color: black;
+   color: white;
+}
+.skill{
+margin-left: 40px;
+}
+.contact{
+    margin-left: 50px;
+}
+ 
+/* this is navbar dot section */
+.navbar-dot{
+    position:relative;
+   
+    /* margin-top: 10px; */
+}
+.navbar-dot h3{
+    margin-top: 40px;
+}
+.dot{
+    position: absolute;
+    left: 110%;
+    top:55%;
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+    background-color: #FE531D;  
+    text-align: center;
+}
